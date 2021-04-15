@@ -1,6 +1,10 @@
-### Hey! I'm Italy Christian 👋 👽 🗣 👻
+### Hey! I'm Italy Christian 👋 👽 
 
-🤓 Who am I?
+🤓 Who am I? 👻 : 
+- I'm 21 years old 
+- No, i'm not italian. I'm brazilian. 🇧🇷
+- I'm a lover with music 🎙 and theater 🎥
+- Currently working only with development 💻
 
 ☕ Where you can find me: <br/>
 <a href="https://www.linkedin.com/in/italy-christian/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
