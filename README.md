@@ -1,7 +1,7 @@
 ### Hey! I'm Italy Christian 👋 👽
 
 ☕ Where you can find me: <br/>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/italy-christian/)
+<a href="https://www.linkedin.com/in/italy-christian/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 🌱 Currently learning <br/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
