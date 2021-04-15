@@ -3,7 +3,7 @@
 ☕ Where you can find me: <br/>
 <a href="https://www.linkedin.com/in/italy-christian/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-🌱 Currently learning <br/>
+🌱 Currently learning: <br/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
