@@ -3,7 +3,7 @@
 🤓 Who am I? 👻 : 
 - I'm 24 years old 
 - No, i'm not italian. I'm brazilian. 🇧🇷
-- I'm a lover with music 🎙 and theater 🎥
+- I love music 🎙 and theater 🎥
 - Currently working only with development 💻
 
 ☕ Where you can find me: <br/>
