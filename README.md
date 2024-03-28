@@ -1,7 +1,7 @@
 ### Hey! I'm Italy Christian 👋 👽 
 
 🤓 Who am I? 👻 : 
-- I'm 23 years old 
+- I'm 24 years old 
 - No, i'm not italian. I'm brazilian. 🇧🇷
 - I'm a lover with music 🎙 and theater 🎥
 - Currently working only with development 💻
