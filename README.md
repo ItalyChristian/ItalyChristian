@@ -5,6 +5,7 @@
 - No, i'm not italian. I'm brazilian. 🇧🇷
 - I love music 🎙 and theater 🎥
 - Currently working only with development 💻
+- Português/BR (nativo), English (b1), Français (a1) 
 
 ☕ Where you can find me: <br/>
 <a href="https://www.linkedin.com/in/italy-christian/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
